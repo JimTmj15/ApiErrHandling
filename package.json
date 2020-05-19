@@ -1,0 +1,16 @@
+{
+  "name": "hyperlab",
+  "version": "1.0.0",
+  "description": "Hyperlab Interview",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Jimmy Tee",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.1",
+    "got": "^11.1.4",
+    "nodemon": "^2.0.4"
+  }
+}
